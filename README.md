@@ -50,31 +50,4 @@
 |             Signe dollar                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
 |             Signe dollar blanc                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
 |             Bouclier                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             feuille de lise                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             Sapin                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             Cloche                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             Jeton                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             None                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             diamant                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             U1                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
+
