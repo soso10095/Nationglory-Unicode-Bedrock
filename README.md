@@ -27,10 +27,10 @@
 |             Guide                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/guide.png)|
 |             Avocat                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/avocat.png)|
 |             Journal                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/journal.png)|
-|             Mine                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             Loto                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             ATM                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
-|             Info                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
+|             Mine                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/mine.png)|
+|             Loto                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/loto.png)|
+|             ATM                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/atm.png)|
+|             Info                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/info.png)|
 
 
 |               Emote               | Character |                     In game                    |				
