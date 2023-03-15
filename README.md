@@ -1,5 +1,5 @@
 # Nationglory-Unicode-Bedrock
-|               Name               | Character |                     In game                    |				
+|               Grade               | Character |                     In game                    |				
 |:--------------------------------:|:---------:|:----------------------------------------------:|
 |             Premium                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/Premium.png)|
 |             Legende                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/legende.png)|
@@ -31,6 +31,10 @@
 |             Loto                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
 |             ATM                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
 |             Info                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/DONDA.png)|
+
+
+|               Emote               | Character |                     In game                    |				
+|:--------------------------------:|:---------:|:----------------------------------------------:|
 |             Monsieur                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/monsieur.png)|
 |             Madame noel                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/Madamenoel.png)|
 |             elf de noel                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/lutin.png)|
