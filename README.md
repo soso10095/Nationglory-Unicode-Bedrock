@@ -31,6 +31,10 @@
 |             Loto                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/loto.png)|
 |             ATM                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/atm.png)|
 |             Info                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/info.png)|
+|             Commun                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/commun.png)|
+|             Rare                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/rare.png)|
+|             Epic                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/ecip.png)|
+|             Limite                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/limite.png)|
 
 
 |               Emote               | Character |                     In game                    |				
