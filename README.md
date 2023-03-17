@@ -2,7 +2,7 @@
 |               Grade               | Character |                     In game                    |				
 |:--------------------------------:|:---------:|:----------------------------------------------:|                                                 
 |             Premium                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/Premium.png)|
-|             Legende                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/legende.png)|
+|             Legende                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/legende.png)|
 |             Heros                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/heros.png)|
 |             Joueur                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/joueur.png)|
 |             Rp                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/RP.png)|
