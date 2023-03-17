@@ -18,7 +18,7 @@
 |             Responsable Com                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/responsabe%20com.png)|
 |             Artist                   |           |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/artiste.png)|
 |             Responsable Admin                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/responsable%20admin.png)|
-|             Admin                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/Admin.png)|
+|             Admin                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/Admin.png)|
 |             SuperModo                  |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/SuperModo.png)|
 |             Modo+                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/Modo%2B.png)|
 |             Modo                   |          |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://github.com/soso10095/Nationglory-Unicode-Bedrock/blob/main/pictur/modo.png)|
